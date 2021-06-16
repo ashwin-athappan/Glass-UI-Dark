@@ -1,0 +1,21 @@
+{
+    "name": "glass-ui-dark",
+    "displayName": "glass-ui-dark",
+    "description": "glass-ui-dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "glass-ui-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/glass-ui-dark-color-theme.json"
+            }
+        ]
+    }
+}
